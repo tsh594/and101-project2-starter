@@ -36,6 +36,7 @@ The following EXTRA features are implemented:
 ## Video Demo
 
 Here's a video / GIF that demos all of the app's implemented features:
+![1](https://github.com/user-attachments/assets/28019b69-8a22-48d5-b936-bdf67dbd5f3a)
 
 <img src='https://i.imgur.com/THLmnL7.gif' title='Video Demo' width='' alt='Video Demo' />
 
@@ -54,7 +55,7 @@ Here's a place for any other notes on the app, it's creation process, or what yo
 
 ## License
 
-Copyright **2025** **axi**
+Copyright **2025** **Tasneem Shabana**
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
