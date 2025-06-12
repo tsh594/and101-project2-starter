@@ -4,7 +4,7 @@
 
 Submitted by: **Tasneem Shabana**
 
-Time spent: **0.45** hours spent in total
+Time spent: **1** hours spent in total
 
 ## Summary
 
